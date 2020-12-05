@@ -1,0 +1,8 @@
+rotors_simulator/rotors_control
+/home/gf/bebop_ws/devel/.private/rotors_control/share/rotors_control/cmake/rotors_controlConfig-version.cmake /home/gf/bebop_ws/devel/share/rotors_control/cmake/rotors_controlConfig-version.cmake
+/home/gf/bebop_ws/devel/.private/rotors_control/share/rotors_control/cmake/rotors_controlConfig.cmake /home/gf/bebop_ws/devel/share/rotors_control/cmake/rotors_controlConfig.cmake
+/home/gf/bebop_ws/devel/.private/rotors_control/lib/liblee_position_controller.so /home/gf/bebop_ws/devel/lib/liblee_position_controller.so
+/home/gf/bebop_ws/devel/.private/rotors_control/lib/libroll_pitch_yawrate_thrust_controller.so /home/gf/bebop_ws/devel/lib/libroll_pitch_yawrate_thrust_controller.so
+/home/gf/bebop_ws/devel/.private/rotors_control/lib/pkgconfig/rotors_control.pc /home/gf/bebop_ws/devel/lib/pkgconfig/rotors_control.pc
+/home/gf/bebop_ws/devel/.private/rotors_control/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node /home/gf/bebop_ws/devel/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node
+/home/gf/bebop_ws/devel/.private/rotors_control/lib/rotors_control/lee_position_controller_node /home/gf/bebop_ws/devel/lib/rotors_control/lee_position_controller_node

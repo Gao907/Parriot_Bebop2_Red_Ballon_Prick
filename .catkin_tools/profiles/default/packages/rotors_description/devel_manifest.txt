@@ -1,0 +1,4 @@
+rotors_simulator/rotors_description
+/home/gf/bebop_ws/devel/.private/rotors_description/share/rotors_description/cmake/rotors_descriptionConfig-version.cmake /home/gf/bebop_ws/devel/share/rotors_description/cmake/rotors_descriptionConfig-version.cmake
+/home/gf/bebop_ws/devel/.private/rotors_description/share/rotors_description/cmake/rotors_descriptionConfig.cmake /home/gf/bebop_ws/devel/share/rotors_description/cmake/rotors_descriptionConfig.cmake
+/home/gf/bebop_ws/devel/.private/rotors_description/lib/pkgconfig/rotors_description.pc /home/gf/bebop_ws/devel/lib/pkgconfig/rotors_description.pc

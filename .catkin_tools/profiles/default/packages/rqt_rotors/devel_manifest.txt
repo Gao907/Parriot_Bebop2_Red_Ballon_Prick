@@ -1,0 +1,6 @@
+rotors_simulator/rqt_rotors
+/home/gf/bebop_ws/devel/.private/rqt_rotors/bin/hil_plugin /home/gf/bebop_ws/devel/bin/hil_plugin
+/home/gf/bebop_ws/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake /home/gf/bebop_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake
+/home/gf/bebop_ws/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake /home/gf/bebop_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake
+/home/gf/bebop_ws/devel/.private/rqt_rotors/lib/pkgconfig/rqt_rotors.pc /home/gf/bebop_ws/devel/lib/pkgconfig/rqt_rotors.pc
+/home/gf/bebop_ws/devel/.private/rqt_rotors/lib/python2.7/dist-packages/rqt_rotors/__init__.py /home/gf/bebop_ws/devel/lib/python2.7/dist-packages/rqt_rotors/__init__.py
